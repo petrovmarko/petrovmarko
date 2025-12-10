@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Marko</h1>
 <h3 align="center">A computer science student with a keen interest in algorithms & deep learning.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=petrovmarko" alt="petrovmarko" /></a> </p>
+
 
 - 🔭 I’m currently working on [Handwritten Mathematical Symbol Recognition](https://github.com/petrovmarko/Mathematical-Symbol-Recognition)
 
