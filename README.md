@@ -1,16 +1,44 @@
-## Hi there 👋
+# 👋 Hey there! I'm Marko
 
-<!--
-**petrovmarko/petrovmarko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Code, Data & Coffee Enthusiast**  
+Currently juggling **algorithms, deep learning, and blockchain experiments** in NYC.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧰 My Toolbox
+
+| Languages | ML & DL | Tools & Frameworks |
+|-----------|---------|------------------|
+| Python 🐍 | TensorFlow ⚡ | Git & GitHub 🐙 |
+| C++ 💻 | PyTorch 🔥 | VSCode & Jupyter 📓 |
+| Rust 🦀 | Scikit-learn 📊 | Docker & Linux 🐧 |
+| SQL 🗄️ | Pandas & NumPy 📈 | VSCode, tmux, Vim ⚡ |
+
+---
+
+## 🔍 What I’m exploring
+
+- Serverless Rust projects  
+- Quantitative finance + optimization  
+- Machine learning research & Kaggle competitions  
+- LangChain + LLM experiments  
+
+---
+
+## ⚡ Fun Stats
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
+
+---
+
+## 📫 How to reach me
+
+- Twitter: [@yourhandle](https://twitter.com/yourhandle)  
+- LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
+- Email: youremail@example.com
+
+---
+
+💡 **Quote to live by:**  
+*"Code like a human, debug like a robot."*
