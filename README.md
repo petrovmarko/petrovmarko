@@ -27,8 +27,8 @@ Currently juggling **algorithms, deep learning, and blockchain experiments** in 
 
 ## ⚡ Fun Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight)  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=petrovmarko&layout=compact&theme=tokyonight)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=petrovmarko&show_icons=true&theme=tokyonight)
 
 ---
 
