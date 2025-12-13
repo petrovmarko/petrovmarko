@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Handwritten Mathematical Symbol Recognition](https://github.com/petrovmarko/Mathematical-Symbol-Recognition), [MarkGrad](https://github.com/petrovmarko/MarkGrad), and a few kaggle competitions.
 
-- 🌱 I’m currently learning **everything i can find on deep learning**
+- 🌱 I’m currently learning **everything i can find on deep learning** & **algorhtms**
 - Really passionate about startups and building things 
 
 <h3 align="left">Connect with me:</h3>
