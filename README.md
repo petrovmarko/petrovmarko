@@ -3,9 +3,10 @@
 
 
 
-- 🔭 I’m currently working on [Handwritten Mathematical Symbol Recognition](https://github.com/petrovmarko/Mathematical-Symbol-Recognition)
+- 🔭 I’m currently working on [Handwritten Mathematical Symbol Recognition](https://github.com/petrovmarko/Mathematical-Symbol-Recognition), [MarkGrad](https://github.com/petrovmarko/MarkGrad), and a few kaggle competitions.
 
 - 🌱 I’m currently learning **everything i can find on deep learning**
+- Really passionate about startups and building things 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
