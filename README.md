@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I’m currently working on [MarkGrad](https://github.com/petrovmarko/MarkGrad), [decoding 4000 year old business records](https://www.kaggle.com/competitions/deep-past-initiative-machine-translation), while balancing school and social life.
+- 🔭 I’m currently working on [MarkGrad](https://github.com/petrovmarko/MarkGrad), [decoding 4000 year old business records](https://www.kaggle.com/competitions/deep-past-initiative-machine-translation), and other things while balancing school and social life.
 
 - I’m currently learning **everything i can find on deep learning** & **algorithms**
 - Really passionate about startups, building things, puzzles, and financial markets.
