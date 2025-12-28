@@ -1,12 +1,12 @@
-<h1 align="center">Hi 👋, I'm Marko</h1>
+<h1 align="center">Hi, I'm Marko</h1>
 <h3 align="center">A computer science student with a keen interest in algorithms & deep learning.</h3>
 
 
 
-- 🔭 I’m currently working on [Handwritten Mathematical Symbol Recognition](https://github.com/petrovmarko/Mathematical-Symbol-Recognition), [MarkGrad](https://github.com/petrovmarko/MarkGrad), and a few kaggle competitions.
+- 🔭 I’m currently working on [MarkGrad](https://github.com/petrovmarko/MarkGrad), [decoding 4000 year old business records](https://www.kaggle.com/competitions/deep-past-initiative-machine-translation), while balancing school and social life.
 
-- 🌱 I’m currently learning **everything i can find on deep learning** & **algorithms**
-- Really passionate about startups and building things 
+- I’m currently learning **everything i can find on deep learning** & **algorithms**
+- Really passionate about startups, building things, puzzles, and financial markets.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
