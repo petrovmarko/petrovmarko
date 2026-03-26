@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I’m currently working on [MarkGrad](https://github.com/petrovmarko/MarkGrad), [BirdCLEF+ 2026]([https://www.kaggle.com/competitions/deep-past-initiative-machine-translation](https://www.kaggle.com/competitions/birdclef-2026/overview)), and other things while balancing school and social life.
+- 🔭 I’m currently working on [MarkGrad](https://github.com/petrovmarko/MarkGrad), [BirdCLEF+ 2026](https://www.kaggle.com/competitions/birdclef-2026/overview), and other things while balancing school and social life.
 
 - I’m currently learning **everything i can find on deep learning** & **algorithms**
 - Really passionate about startups, building things, puzzles, and financial markets.
