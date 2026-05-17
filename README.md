@@ -14,11 +14,7 @@
   </a>
 </p>
 
----
 
-- 🔭 Currently working on [MarkGrad](https://github.com/petrovmarko/MarkGrad), [BirdCLEF+ 2026](https://www.kaggle.com/competitions/birdclef-2026/overview), and other projects while balancing school and social life.
-- 📖 Learning everything I can on **deep learning** & **algorithms**
-- Passionate about startups, building things, puzzles, and financial markets.
 
 ---
 
