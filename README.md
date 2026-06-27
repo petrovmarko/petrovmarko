@@ -1,22 +1,3 @@
-<p align="center">
-  <img src="./header.svg" alt="Marko Petrov" width="100%"/>
-</p>
-
-<p align="center">
-  <a href="https://mk.linkedin.com/in/marko-petrov-926637332" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/>
-  </a>
-  <a href="https://kaggle.com/petrovmarko" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" width="40"/>
-  </a>
-  <a href="https://leetcode.com/u/petrovmarko/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40"/>
-  </a>
-</p>
-
-
-
----
 
 <h3 align="left">Languages and Tools</h3>
 
