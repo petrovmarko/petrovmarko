@@ -1,3 +1,28 @@
+<h1 align="center">Hi, I'm Marko 👋</h1>
+
+<p align="center">
+  <b>Machine Learning · Deep Learning · Algorithms</b>
+</p>
+
+<p align="center">
+  <img src="./assets/neural-network.svg" width="800"/>
+</p>
+
+<p align="center">
+  <i>learning representations, one gradient at a time.</i>
+</p>
+
+---
+
+### About
+
+- 🧠 Deep Learning & Machine Learning
+- 🏆 Competitive Programming
+- 📈 Kaggle Competitions
+- 🔬 ML Research
+- ⚡ Algorithms & Optimization
+
+---
 
 <h3 align="left">Languages and Tools</h3>
 
