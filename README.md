@@ -1,16 +1,10 @@
 # Hello
 
-<p align="center">
-  <b>Machine Learning · Deep Learning · Algorithms</b>
-</p>
+**Machine Learning · Deep Learning · Algorithms**
 
-<p align="center">
-  <img src="./assets/neural-network.svg" width="900" alt="Self Attention"/>
-</p>
+![Self Attention Animation](assets/neural-network.svg)
 
-<p align="center">
-  <i>learning representations, one gradient at a time.</i>
-</p>
+*learning representations, one gradient at a time.*
 
 ---
 
