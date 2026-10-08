@@ -1,4 +1,4 @@
-# Hello
+# Hi
 
 **Machine Learning · Deep Learning · Algorithms**
 
@@ -8,6 +8,8 @@
        alt="Self Attention Animation">
 </p>
 
+***
+
 ### About
 
 - Deep Learning & Machine Learning
@@ -16,6 +18,8 @@
 - Kaggle Competitions
 - Algorithms & Optimization
 
+Feel free to reach out and talk about whether attention is all you need 😂😂😂😂
+***
 <h3 align="left">Languages and Tools</h3>
 
 <p align="left">
