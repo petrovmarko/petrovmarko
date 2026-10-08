@@ -1,15 +1,11 @@
-<h1 align="center">Hello</h1>
+# Hello
 
 <p align="center">
   <b>Machine Learning · Deep Learning · Algorithms</b>
 </p>
 
 <p align="center">
-  <img
-    src="https://raw.githubusercontent.com/petrovmarko/petrovmarko.github.io/main/assets/neural-network.svg"
-    width="900"
-    alt="Self-Attention Animation"
-  />
+  <img src="./assets/neural-network.svg" width="900" alt="Self Attention"/>
 </p>
 
 <p align="center">
@@ -25,8 +21,6 @@
 - Competitive Programming
 - Kaggle Competitions
 - Algorithms & Optimization
-
----
 
 <h3 align="left">Languages and Tools</h3>
 
