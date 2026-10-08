@@ -5,13 +5,12 @@
 </p>
 
 <p align="center">
-  <img src="./assets/neural-network.svg" width="900" alt="Self-attention animation"/>
+  <img
+    src="https://raw.githubusercontent.com/petrovmarko/petrovmarko.github.io/main/assets/neural-network.svg"
+    width="900"
+    alt="Self-attention animation"
+  />
 </p>
-
-<p align="center">
-  <i>learning representations, one gradient at a time.</i>
-</p>
-
 ---
 
 ### About
