@@ -2,11 +2,11 @@
 
 **Machine Learning · Deep Learning · Algorithms**
 
-![Self Attention Animation](assets/neural-network.svg)
-
-*learning representations, one gradient at a time.*
-
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/petrovmarko/petrovmarko/main/assets/neural-network.svg"
+       width="900"
+       alt="Self Attention Animation">
+</p>
 
 ### About
 
