@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Marko 👋</h1>
+<h1 align="center">Hi, I'm Marko</h1>
 
 <p align="center">
   <b>Machine Learning · Deep Learning · Algorithms</b>
@@ -16,11 +16,11 @@
 
 ### About
 
-- 🧠 Deep Learning & Machine Learning
-- 🏆 Competitive Programming
-- 📈 Kaggle Competitions
-- 🔬 ML Research
-- ⚡ Algorithms & Optimization
+- Deep Learning & Machine Learning
+- Competitive Programming
+- Kaggle Competitions
+- ML Research
+- Algorithms & Optimization
 
 ---
 
