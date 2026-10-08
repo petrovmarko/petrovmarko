@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="./assets/neural-network.svg" width="800"/>
+  <img src="./assets/neural-network.svg" width="900" alt="Self-attention animation"/>
 </p>
 
 <p align="center">
