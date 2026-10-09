@@ -18,7 +18,7 @@
 - Kaggle Competitions
 - Algorithms & Optimization
 
-Feel free to reach out and talk about whether attention is all you need 😂😂😂😂
+Feel free to reach out and talk about whether attention is all you need (it's not) 😂😂😂😂
 ***
 <h3 align="left">Languages and Tools</h3>
 
